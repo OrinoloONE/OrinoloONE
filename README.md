@@ -11,7 +11,7 @@
 |Project|Name-link|Project|Name-link|
 |:-----:|:-------:|:-----:|:-------:|
 |<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[validator-node-guide](https://github.com/OrinoloONE/validator-node-guide)|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[storage-node-guide](https://github.com/OrinoloONE/storage-node-guide)|
-|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[da-retriever-guide](https://github.com/OrinoloONE/da-retriever-guide)|<img src="https://github.com/user-attachments/assets/7dfe98d5-baf8-49ca-9e81-089b5fdd2edd" width=50>||
+|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[da-retriever-guide](https://github.com/OrinoloONE/da-retriever-guide)|<img src="https://github.com/user-attachments/assets/7dfe98d5-baf8-49ca-9e81-089b5fdd2edd" width=50>|[Run a Validator Node](https://teletype.in/@orinoloone/run_a_validator_node)|
 
 <h1 align=center>My Links </h1>
 
