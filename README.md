@@ -8,9 +8,11 @@
 
 <h1 align=center>My Guides </h1>
 
-|Project|Name-link|
-|:-----:|:-------:|
-|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[validator-node-guide](https://github.com/OrinoloONE/validator-node-guide)|
+|Project|Name-link|Project|Name-link|
+|:-----:|:-------:|:-----:|:-------:|
+|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[validator-node-guide](https://github.com/OrinoloONE/validator-node-guide)|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[storage-node-guide](https://github.com/OrinoloONE/storage-node-guide)|
+|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[da-retriever-guide](https://github.com/OrinoloONE/da-retriever-guide)|||
+
 
 
 
