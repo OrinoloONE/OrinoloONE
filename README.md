@@ -10,7 +10,7 @@
 
 |Project|Name-link|
 |:-----:|:-------:|
-|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=100>|[validator-node-guide](https://github.com/OrinoloONE/validator-node-guide)|
+|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[validator-node-guide](https://github.com/OrinoloONE/validator-node-guide)|
 
 
 
@@ -18,9 +18,9 @@
 
 |Co|Link|
 |:-:|:--:|
-|<img src="https://github.com/user-attachments/assets/fb7a16ae-9323-4fc0-ad6d-2a47e013a433" width=100>|https://x.com/OrinoloONE|
-|<img src="https://github.com/user-attachments/assets/caa79e11-e125-4161-80ec-cc6f85aae6e3" width=100>|https://discord.com/users/846810388262682625|
-|<img src="https://github.com/user-attachments/assets/97071389-922e-4015-848d-5fa9769f3b18" width=100>|https://teletype.in/@orinoloone|
+|<img src="https://github.com/user-attachments/assets/fb7a16ae-9323-4fc0-ad6d-2a47e013a433" width=50>|https://x.com/OrinoloONE|
+|<img src="https://github.com/user-attachments/assets/caa79e11-e125-4161-80ec-cc6f85aae6e3" width=50>|https://discord.com/users/846810388262682625|
+|<img src="https://github.com/user-attachments/assets/97071389-922e-4015-848d-5fa9769f3b18" width=50>|https://teletype.in/@orinoloone|
 
 
 
