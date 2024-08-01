@@ -6,6 +6,21 @@
 |![Artela](https://github.com/user-attachments/assets/dce3e77a-454d-4803-a106-19fbe8625a7f)|artvaloper1n9wsjh34kwlwfdrvjzul8prg7e9url22psatxg|![warden_protocol1712592581726](https://github.com/user-attachments/assets/2b2b360d-7c6b-45be-ba94-e17efc306921)|wardenvaloper17cprsce9u4q6n47x45f7e5qm4lfa9a7dh97uwr|
 |![AirChains](https://github.com/user-attachments/assets/7dfe98d5-baf8-49ca-9e81-089b5fdd2edd)|airvaloper1k5wtp3m9264p6lfqe7hlj8v8ukfgh7q6rt2yzp|![cosmos](https://github.com/user-attachments/assets/eb5980a3-00f3-4532-9b28-9cde652e3121)|cosmosvaloper1y2w0t3t7qx3u7w2qwfw8zm66tj9jdxysrv8kwj|
 
+<h1 align=center>My Guides </h1>
+
+|Project|Name-link|
+|:-----:|:-------:|
+|![KBZhJfhC_400x400](https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95)|[validator-node-guide](https://github.com/OrinoloONE/validator-node-guide)|
+
+
+
+<h1 align=center>My Links </h1>
+
+|Co|Link|
+|:-:|:--:|
+|![twitter](https://github.com/user-attachments/assets/fb7a16ae-9323-4fc0-ad6d-2a47e013a433)|https://x.com/OrinoloONE|
+|![636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB](https://github.com/user-attachments/assets/caa79e11-e125-4161-80ec-cc6f85aae6e3)|https://discord.com/users/846810388262682625|
+|![images (1)](https://github.com/user-attachments/assets/97071389-922e-4015-848d-5fa9769f3b18)|https://teletype.in/@orinoloone|
 
 
 
