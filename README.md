@@ -12,6 +12,7 @@
 |:-----:|:-------:|:-----:|:-------:|
 |<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[validator-node-guide](https://github.com/OrinoloONE/validator-node-guide)|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[storage-node-guide](https://github.com/OrinoloONE/storage-node-guide)|
 |<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[da-retriever-guide](https://github.com/OrinoloONE/da-retriever-guide)|<img src="https://github.com/user-attachments/assets/7dfe98d5-baf8-49ca-9e81-089b5fdd2edd" width=50>|[Run a Validator Node](https://teletype.in/@orinoloone/run_a_validator_node)|
+| <img src="https://github.com/user-attachments/assets/bff3ef76-c1b9-4950-875b-238e5e2bff00" width=50> | [Tea Protocol. AI and Open Source](https://teletype.in/@orinoloone/1ViWTShkDYN) | - | - |
 
 <h1 align=center>My Links </h1>
 
@@ -20,7 +21,3 @@
 |<img src="https://github.com/user-attachments/assets/fb7a16ae-9323-4fc0-ad6d-2a47e013a433" width=50>|https://x.com/OrinoloONE|
 |<img src="https://github.com/user-attachments/assets/caa79e11-e125-4161-80ec-cc6f85aae6e3" width=50>|https://discord.com/users/846810388262682625|
 |<img src="https://github.com/user-attachments/assets/97071389-922e-4015-848d-5fa9769f3b18" width=50>|https://teletype.in/@orinoloone|
-
-
-
-
