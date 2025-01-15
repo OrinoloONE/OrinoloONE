@@ -12,7 +12,7 @@
 |:-----:|:-------:|:-----:|:-------:|
 |<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[validator-node-guide](https://github.com/OrinoloONE/validator-node-guide)|<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[storage-node-guide](https://github.com/OrinoloONE/storage-node-guide)|
 |<img src="https://github.com/user-attachments/assets/4b8b1566-81c9-4dec-8f80-7fa9a4cecd95" width=50>|[da-retriever-guide](https://github.com/OrinoloONE/da-retriever-guide)|<img src="https://github.com/user-attachments/assets/7dfe98d5-baf8-49ca-9e81-089b5fdd2edd" width=50>|[Run a Validator Node](https://teletype.in/@orinoloone/run_a_validator_node)|
-| <img src="https://github.com/user-attachments/assets/bff3ef76-c1b9-4950-875b-238e5e2bff00" width=50> | [Tea Protocol. AI and Open Source](https://teletype.in/@orinoloone/1ViWTShkDYN) | - | - |
+| <img src="https://github.com/user-attachments/assets/bff3ef76-c1b9-4950-875b-238e5e2bff00" width=50> | [Tea Protocol. AI and Open Source](https://teletype.in/@orinoloone/1ViWTShkDYN) | <img src="https://github.com/user-attachments/assets/b636c47b-a5be-4eaf-9949-9a6624e10ee7" width=50> | [Enso. Started with Enso](https://teletype.in/@orinoloone/a5-NKlNRVLy) |
 
 <h1 align=center>My Links </h1>
 
